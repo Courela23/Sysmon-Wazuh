@@ -1,0 +1,2 @@
+# Sysmon-Wazuh
+Wazu siem
